@@ -13,7 +13,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
-## :woman_technologist: About Me :
+    
+### :woman_technologist: About Me :
     
  I am a 3rd year student of the Higher College of Informatics (VKI NSU) at Novosibirsk State Research Institute <img src="https://media.giphy.com/media/TesavnYFHngXAmlQgm/giphy.gif" width="30">, where I entered in 2021. My way into the world of programming started with learning C#, Java and, of course, a bit of C++. Currently, I am actively developing my skills, aiming to become an experienced backend developer.
 
