@@ -7,7 +7,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Rawiiw&style=flat-square" alt=""/>
     <h1>
- Hi, I'm Alexandra 👋
+ Hi, I'm Alexandra 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ## About the development and me
