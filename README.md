@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 ## Hi, I'm Alexandra 👋
 
