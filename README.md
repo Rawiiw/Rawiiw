@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About Me :
 
-I am currently working as a DevOps engineer and systems administrator at Nixys in 2024. I graduated from the Higher College of Informatics (VKI NSU) at Novosibirsk State Research Institute. My journey into the world of programming began with learning C#, Java, and a bit of C++. Now, I am developing both my coding skills and CI/CD technologies, embracing the DevOps philosophy.
+I am currently working as a DevOps engineer and systems administrator at Nixys in 2024. I graduated from the Higher College of Informatics (VKI NSU) at Novosibirsk State Research Institute. Now, I am developing both my coding skills and CI/CD technologies, embracing the DevOps philosophy.
 
 🌱 My goal is to continuously improve and learn new technologies. I am passionate about the world of development, where I can apply my knowledge to create scalable and efficient systems.
 
