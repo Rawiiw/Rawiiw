@@ -21,9 +21,7 @@ I am a DevOps Engineer with hands-on experience in designing, maintaining, and a
 
 I graduated from the Higher College of Informatics (VKI NSU) and am currently pursuing a Bachelor's degree in Software Engineering at Tomsk State University of Control Systems and Radioelectronics (TUSUR).
 
-My expertise includes Kubernetes, Docker, GitLab CI/CD, Ansible, Prometheus, Grafana, Loki, VictoriaMetrics, Elasticsearch, PostgreSQL, MySQL, Redis, Nginx, Kafka, Ceph, and Linux administration. I regularly work with high-load production environments, infrastructure monitoring, incident response, deployment automation, and observability platforms.
-
-I am passionate about DevOps culture, reliability engineering, automation, and continuous improvement. My goal is to build scalable, resilient, and maintainable systems while continuously expanding my knowledge of cloud-native technologies, distributed systems, and software development.
+My expertise includes Kubernetes, Docker, GitLab CI/CD, Ansible, Prometheus, Grafana, Loki, VictoriaMetrics, Elasticsearch, PostgreSQL, MySQL, Redis, Nginx, Kafka and Linux administration. I regularly work with high-load production environments, infrastructure monitoring, incident response, deployment automation, and observability platforms.
 
 
 - :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/instagram-pink?logo=instagram)](https://instagram.com/rawiiww)
